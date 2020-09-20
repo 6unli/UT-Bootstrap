@@ -1,0 +1,69 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-icons {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+}
+
+.btn.nopadding {
+    margin-left: -20px;
+}
+
+.col-8.notop{
+    padding-top: 0;
+    margin-top: -10px;
+}
+
+.custom-height{
+    height:200px;
+    }
+
+.carousel-item{
+    position:relative !important;
+}
+
+.black-overlay{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.2)
+}
